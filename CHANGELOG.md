@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/digrec/release-please-playground/compare/v1.1.0...v1.1.1) (2023-05-05)
+
+
+### Documentation
+
+* **readme:** fix the headline ([5c6c7df](https://github.com/digrec/release-please-playground/commit/5c6c7df2f94784c579013d01bc8e2d503a3b5fdd))
+* **readme:** update Android version subtitle ([b027632](https://github.com/digrec/release-please-playground/commit/b0276321262cabf17efb81481fc0b9c98e571272))
+
 ## [1.1.0](https://github.com/digrec/release-please-playground/compare/v1.0.0...v1.1.0) (2023-05-05)
 
 
